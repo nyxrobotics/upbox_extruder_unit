@@ -7,3 +7,4 @@ Customized parts for upbox
 # reference
 - [Upbox+ extruder mod for TPU UPBOX / Afinia H800](https://www.thingiverse.com/thing:2912644)
 - [Afinia H800 Extruder Cover](https://www.thingiverse.com/thing:3029965)
+- [40mm Fan Grill](https://www.thingiverse.com/thing:2263462/files)
